@@ -1,3 +1,4 @@
 # SocialApp
 
-#Technologies:
+Technologies:
+* Spring Boot
