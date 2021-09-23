@@ -1,5 +1,5 @@
 # SocialApp
-# Social App is built using Spring Boot, Spring Security with JPA Authentication, Spring Data JPA with MySQL, Spring MVC.
+Social App is built using Spring Boot, Spring Security with JPA Authentication, Spring Data JPA with MySQL, Spring MVC.
 
 Features:
 * Authentication: SignUp, LogIn, Forgot Password, Profile Activation
