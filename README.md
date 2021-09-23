@@ -5,3 +5,4 @@ Technologies:
 * Spring Framework
 * Spring MVC
 * Spring Security
+* MySQL
